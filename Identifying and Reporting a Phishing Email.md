@@ -1,65 +1,65 @@
-\# A Guide on Identifying and Reporting a Phishing Email
+# A Guide on Identifying and Reporting a Phishing Email
 
 Scammers create phishing emails to trick people into sharing personal details such as passwords and financial information. New students are targeted because they may not be familiar with these types of scams.
 
-\## Task 1: How to Identify a Phishing Email
+## Task 1: How to Identify a Phishing Email
 
-\### Goal:
+### Goal:
 
 After carefully reviewing these instructions, students will be able to tell whether an email in their inbox is real or a phishing scam. This will keep students and their accounts safe from scammers who are attempting to steal their information.
 
-\### What Students Need Before Moving Forward:
+### What Students Need Before Moving Forward:
 
 Before we begin, the reader needs access to their NC State student email such as their login information, an electronic device such as a laptop, and internet connection.
 
-\### Next Steps:
+### Next Steps:
 
-1\. Check the sender's email address for legitimacy, make sure it is an email address that actually belongs to the sender (See Figure 1).
+1. Check the sender's email address for legitimacy, make sure it is an email address that actually belongs to the sender (See Figure 1).
 
-2\. Hover your cursor over links without clicking on them to see what type of link it is and where it might send you.
+2. Hover your cursor over links without clicking on them to see what type of link it is and where it might send you.
 
-3\. Search for urgency in the language used such as asking you to act immediately (See Figure 1).
+3. Search for urgency in the language used such as asking you to act immediately (See Figure 1).
 
-4\. Check for generic greetings that are vague and do not include your correct first or last name (See Figure 1).
+4. Check for generic greetings that are vague and do not include your correct first or last name (See Figure 1).
 
-\*\*Figure 1: A phishing email impersonating Bank of America, with arrows pointing at the red flags to look for.\*\*
+**Figure 1: A phishing email impersonating Bank of America, with arrows pointing at the red flags to look for.**
 
 ![<img width="620" height="565" alt="Phishing Emails with Arrows" src="https://github.com/user-attachments/assets/7f4dd27c-bddc-47ec-ae48-c9cb138c645b" />
 ](images/image1.png)
 
-\*\*Warning:\*\* Never provide any of your personal information in an email you suspect is phishing as doing so would compromise your account. If you have already provided information, change your password as soon as possible and notify NC State University IT.
+**Warning:** Never provide any of your personal information in an email you suspect is phishing as doing so would compromise your account. If you have already provided information, change your password as soon as possible and notify NC State University IT.
 
-\## Task 2: How to Report a Phishing Email
+## Task 2: How to Report a Phishing Email
 
-\### Goal:
+### Goal:
 
 After careful review of these instructions, students will be able to report any suspicious emails to NC State University IT that way it can be investigated and effectively blocked in the future.
 
-\### What Students Need Before Moving Forward:
+### What Students Need Before Moving Forward:
 
 The student has identified the email as a phishing email and is ready to move forward.
 
-\### Next Steps:
+### Next Steps:
 
-1\. Open the email.
+1. Open the email.
 
-2\. In the top-right corner of the email, click the **More** option (three vertical dots). (See Figure 2).
+2. In the top-right corner of the email, click the **More** option (three vertical dots). (See Figure 2).
 
-3\. From the dropdown box, select \*\*Report Phishing\*\*. (See Figure 3).
+3. From the dropdown box, select **Report Phishing**. (See Figure 3).
 
-4\. In the same dropdown box as before, delete the email. (See Figure 3).
+4. In the same dropdown box as before, delete the email. (See Figure 3).
 
-\*\*Figure 2: A red arrow is pointed at the three dots at the top-right corner of the email.\*\*
+**Figure 2: A red arrow is pointed at the three dots at the top-right corner of the email.**
 
 ![<img width="463" height="268" alt="Three Little Dots" src="https://github.com/user-attachments/assets/eedb950b-b86d-4e21-a6e5-5df322e24a00" />
 ](images/image2.png)
 
-\*\*Figure 3: Red arrows are pointed at the \_delete_and \_report phishing_ buttons.\*\*
+**Figure 3: Red arrows are pointed at the \_delete_and \_report phishing_ buttons.**
 
 ![<img width="388" height="642" alt="Phishing Report Button with Arrows" src="https://github.com/user-attachments/assets/b7e6d27a-c2be-4dc9-9479-3b916a69cf27" />
 ](images/image3.png)
 
-\## Reflection
+## Reflection
 
 The following procedure was created to include two tasks associated with identifying and reporting a phishing email. Explanations were done in no more than two sentences to ensure readers are able to understand the context of the task without losing focus or attempting to skip through the procedure due to excessive wording. The explanations also illustrated what the reader would learn from the procedure and why it was important for them to acquire this information. For example, during the first task, I explained that students would learn how to identify and report phishing emails and that doing so would keep their information safe from being stolen by scammers. Meij and Gellevij's framework was followed to provide an outline for the procedure. The ultimate goal was broken down into smaller, more manageable tasks that were numbered 1-4 for the convenience of the reader. Headings and subheadings were used to notify readers of what each section consisted of, as well as making sure each heading/subheading was structured to highlight what task was being detailed at the time.
 
