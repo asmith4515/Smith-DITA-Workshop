@@ -24,8 +24,7 @@ Before we begin, the reader needs access to their NC State student email such as
 
 **Figure 1: A phishing email impersonating Bank of America, with arrows pointing at the red flags to look for.**
 
-![<img width="620" height="565" alt="Phishing Emails with Arrows" src="https://github.com/user-attachments/assets/7f4dd27c-bddc-47ec-ae48-c9cb138c645b" />
-](images/image1.png)
+![](images/image1.png)
 
 **Warning:** Never provide any of your personal information in an email you suspect is phishing as doing so would compromise your account. If you have already provided information, change your password as soon as possible and notify NC State University IT.
 
@@ -51,13 +50,11 @@ The student has identified the email as a phishing email and is ready to move fo
 
 **Figure 2: A red arrow is pointed at the three dots at the top-right corner of the email.**
 
-![<img width="463" height="268" alt="Three Little Dots" src="https://github.com/user-attachments/assets/eedb950b-b86d-4e21-a6e5-5df322e24a00" />
-](images/image2.png)
+![](images/image2.png)
 
 **Figure 3: Red arrows are pointed at the \_delete_and \_report phishing_ buttons.**
 
-![<img width="388" height="642" alt="Phishing Report Button with Arrows" src="https://github.com/user-attachments/assets/b7e6d27a-c2be-4dc9-9479-3b916a69cf27" />
-](images/image3.png)
+![](images/image3.png)
 
 ## Reflection
 
