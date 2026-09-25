@@ -2,21 +2,25 @@
 
 Scammers create phishing emails to trick people into sharing personal details such as passwords and financial information. New students are targeted because they may not be familiar with these types of scams.
 
-## Task 1: How to Identify a Phishing Email
+<!-- Good. This feels like the right amount of information for the intended audience -->
+
+## Task 1: How to Identify a Phishing Email <!-- I would eliminate "Task 1" because the wording alone can suggest that. Also remove "How to" in order to be task-oriented -->
 
 ### Goal:
 
-After carefully reviewing these instructions, students will be able to tell whether an email in their inbox is real or a phishing scam. This will keep students and their accounts safe from scammers who are attempting to steal their information.
+After carefully reviewing these instructions, students will be able to tell whether an email in their inbox is real or a phishing scam. This will keep students and their accounts safe from scammers who are attempting to steal their information. <!-- second sentence can be dropped -->
 
 ### What Students Need Before Moving Forward:
 
 Before we begin, the reader needs access to their NC State student email such as their login information, an electronic device such as a laptop, and internet connection.
 
-### Next Steps:
+<!-- how critical is this information? -->
 
-1. Check the sender's email address for legitimacy, make sure it is an email address that actually belongs to the sender (See Figure 1).
+### Next Steps: <!-- is there a more informative way to indicate that what follows are steps to be taken? -->
 
-2. Hover your cursor over links without clicking on them to see what type of link it is and where it might send you.
+1. Check the sender's email address for legitimacy, make sure it is an email address that actually belongs to the sender (See Figure 1). <!-- more simply ... match the sender's email domain to what is expected? -->
+
+2. Hover your cursor over links without clicking on them to see what type of link it is and where it might send you. <!-- Hover cursor over links to see their destinations -->
 
 3. Search for urgency in the language used such as asking you to act immediately (See Figure 1).
 
@@ -26,17 +30,19 @@ Before we begin, the reader needs access to their NC State student email such as
 
 ![Phishing email example](Phishing%20Emails%20with%20Arrows.png)
 
-**Warning:** Never provide any of your personal information in an email you suspect is phishing as doing so would compromise your account. If you have already provided information, change your password as soon as possible and notify NC State University IT.
+**Warning:** Never provide any of your personal information in an email you suspect is phishing as doing so would compromise your account <!-- may not need this last prepositional phrase -->. If you have already provided information, change your password as soon as possible and notify NC State University IT. <!-- should this last observation go in its own section on recovery from a phishing attack? -->
 
-## Task 2: How to Report a Phishing Email
+## Task 2: How to Report a Phishing Email <!-- same advice as with the first task -->
 
 ### Goal:
 
-After careful review of these instructions, students will be able to report any suspicious emails to NC State University IT that way it can be investigated and effectively blocked in the future.
+After careful review of these instructions, students will be able to report any suspicious emails to NC State University IT that way it can be investigated and effectively blocked in the future. <!-- Learn how to report suspicious emails -->
 
 ### What Students Need Before Moving Forward:
 
 The student has identified the email as a phishing email and is ready to move forward.
+
+<!-- needed information? -->
 
 ### Next Steps:
 
@@ -55,6 +61,8 @@ The student has identified the email as a phishing email and is ready to move fo
 **Figure 3: Red arrows are pointed at the _delete_ and _report phishing_ buttons.**
 
 ![Phishing report button](Phishing%20Report%20Button%20with%20Arrows.png)
+
+<!-- good images, just a little on the large side. They can be reduced in size and still serve the rhetorical purpose -->
 
 ## Reflection
 
