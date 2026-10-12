@@ -6,6 +6,8 @@ If someone wants to cook a dish or bake a dessert they are not able to remember,
 
 The recipe itself has three genre sections which are the title, the ingredients, and the steps needed to put it all together. The ingredients can be broken down into quantities, units, items, and even preparation notes for certain ingredients (using words such as "drained"). In order to assemble the genre sections and elements, you have to be consistent with the organization. For instance, titles always come first, the ingredient list should come after the title but before the steps are given, and finally, the steps should be placed in order to avoid any mistakes or confusion.
 
+<!-- Yes. Good review of the genre. And the reason one might want to use structured authoring here is that we want to be sure that all of expected kinds of information that go in a recipe are faithfully reproduced each time -->
+
 ## DTD File
 
 ```
@@ -21,6 +23,8 @@ The recipe itself has three genre sections which are the title, the ingredients,
 <!ELEMENT directions (step+)>
 <!ELEMENT step (#PCDATA)>
 ```
+
+<!-- Flawless DTD -->
 
 ## XML File
 
@@ -47,6 +51,8 @@ The recipe itself has three genre sections which are the title, the ingredients,
 <unit>c.</unit>
 <item>mini marshmallows</item>
 </ingredient>
+
+<!-- good idea to set "preparation" as being a zero or more unit ... it isn't always needed -->
 <ingredient>
 <quantity>1</quantity>
 <unit>c.</unit>
@@ -71,5 +77,7 @@ The recipe itself has three genre sections which are the title, the ingredients,
 <step>Fold in the Cool Whip.</step>
 <step>Chill for at least 1 hour before serving.</step>
 </directions>
+
+<!-- be sure to close out the <recipe> element -->
 </recipe>
 ```
